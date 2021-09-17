@@ -22,8 +22,9 @@ and sharpen coding knowledge, all in one place!
 - [Contributing](#contributing)
     
 - [Description](#description)
-    
-    
+
+- [Tools and Technologies](#tools-and-technologies)
+
 - [Links](#links)
     
 - [Assets](#assets)
@@ -42,9 +43,17 @@ and sharpen coding knowledge, all in one place!
   evolution of the modern world. 
  </h3>
  
-  
- 
-
+  ## Tools and Technologies
+  - HTML/CSS
+  - Javascript
+  - ReactJS
+  - Bootstrap
+  - ExpressJS
+  - MongoDB
+  - Mongoose
+  - JWT
+  - Apollo
+  - GraphQL
 
   ## Links
   <h3> Github Repo:
