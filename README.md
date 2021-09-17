@@ -49,6 +49,7 @@ and sharpen coding knowledge, all in one place!
   - ReactJS
   - Bootstrap
   - ExpressJS
+  - NodeJS
   - MongoDB
   - Mongoose
   - JWT
